@@ -42,7 +42,7 @@ Tables are **auto-created** on first server start. A default admin is also seede
 ```bash
 cd backend
 npm install
-cp .env.example .env
+cp .env
 # Edit .env with your MySQL credentials
 npm run dev
 ```
